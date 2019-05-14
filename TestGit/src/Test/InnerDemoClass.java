@@ -6,7 +6,7 @@ class outer
 	int a;
 	public void outerM()
 	{
-		System.out.println("OuterClass");
+		System.out.println("MyOuterClass");
 	}
 	//Inner Class
 	class inner
